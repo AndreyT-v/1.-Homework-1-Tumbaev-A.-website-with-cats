@@ -1,7 +1,7 @@
 const cats = [
     {
         "name": "Лора",
-        "img_link": "https://www.friendforpet.ru/api/sites/default/files/2021-09/167200DD-A44F-4845-8D4D-ACCFC180165A.jpeg",
+        "img_link": "https://mobimg.b-cdn.net/v3/fetch/f0/f08d705b1fc57e7c71c5950b80937599.jpeg",
         "age": 8,
         "rate": 7,
         "favourite": false,
@@ -10,7 +10,7 @@ const cats = [
     },
     {
         "name": "Базиль",
-        "img_link": "https://www.friendforpet.ru/api/sites/default/files/2022-01/064AEBCB-45EC-4CE7-AB13-C65F10F00B7B.jpeg",
+        "img_link": "https://avatars.mds.yandex.net/i?id=ac73336aee5894f2c4e08e82633d24965359edf0-4487962-images-thumbs&n=13",
         "age": 2,
         "rate": 10,
         "favourite": false,
@@ -19,7 +19,7 @@ const cats = [
     },
     {
         "name": "Риш",
-        "img_link": "https://www.friendforpet.ru/api/sites/default/files/2022-01/_DM34706.JPG",
+        "img_link": "https://krasivosti.pro/uploads/posts/2021-03/1616473408_6-p-klassnii-kot-foto-koshka-6.jpg",
         "age": 1,
         "rate": 10,
         "favourite": true,
