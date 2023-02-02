@@ -23,12 +23,12 @@ footer {
 }
 
 .header__box-btn {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	flex-wrap: nowrap;
-	gap: 10px;
-    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 10px;
+
 }
 
 main {
@@ -164,6 +164,7 @@ form {
 
     form {
         grid-template-columns: repeat(3, 1fr);
+
     }
 }
 
@@ -224,8 +225,9 @@ form button:active {
     box-shadow: 0 0 2px 0 #0004;
 }
 
-header, footer {
-	background:#139decf8;
+header,
+footer {
+    background: #139decf8;
     color: white;
 }
 
@@ -250,4 +252,21 @@ header, footer {
     }
 }
 
+.form-login {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr;
+}
 
+form.form-login label {
+    display: block;
+}
+
+.form-login__btn {
+    min-width: 100px;
+    max-width: 250px;
+    border-radius: 5px;
+    word-wrap: normal;
+    word-break: break-all;
+    justify-self: center;
+}
